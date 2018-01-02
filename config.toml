@@ -1,4 +1,4 @@
 baseURL = "https://farseenabdulsalam.github.io/"
 languageCode = "en-us"
 title = "happycoder"
-theme = "happycoder"
+theme = "happycoder-hugo-theme"

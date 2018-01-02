@@ -1,0 +1,3 @@
+[submodule "themes/happycoder-hugo-theme"]
+	path = themes/happycoder-hugo-theme
+	url = https://github.com/farseenabdulsalam/happycoder-hugo-theme
